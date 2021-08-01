@@ -98,4 +98,65 @@ h6{
             }
         }
     }
+
+    .css-cursor{
+        display: flex;
+        flex-wrap: wrap;
+
+        .css-cursor-box{
+            border: 1px solid black;
+            padding: 10px;
+            font-size: 20px;
+            letter-spacing: 2px;
+            margin: 20px;
+        }
+        .auto{
+            cursor: auto;
+        }
+        .crosshair{
+            cursor: crosshair;
+        }
+        .default{
+            cursor: default;
+        }
+        .e-resize{
+            cursor:e-resize;
+        }
+        .help{
+            cursor: help;
+        }
+        .n-resize{
+            cursor: n-resize;
+        }
+        .ne-resize{
+            cursor: ne-resize;
+        }
+        .nw-resize{
+            cursor: nw-resize;
+        }
+        .pointer{
+            cursor: pointer;
+        }
+        .progress{
+            cursor: progress;
+        }
+        .s-resize{
+            cursor: s-resize;
+        }
+        .se-resize{
+            cursor: se-resize;
+        }
+        .sw-resize{
+            cursor: sw-resize;
+        }
+        .text{
+            cursor: text;
+        }
+        .w-resize{
+            cursor: w-resize;
+        }
+        .wait{
+            cursor: wait;
+        }
+    }
 }

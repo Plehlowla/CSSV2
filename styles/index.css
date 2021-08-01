@@ -90,4 +90,84 @@ h6 {
 .css .css-font .css-font-multiple-effect p {
   font-family: "Sofia", sans-serif;
 }
+
+.css .css-cursor {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.css .css-cursor .css-cursor-box {
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin: 20px;
+}
+
+.css .css-cursor .auto {
+  cursor: auto;
+}
+
+.css .css-cursor .crosshair {
+  cursor: crosshair;
+}
+
+.css .css-cursor .default {
+  cursor: default;
+}
+
+.css .css-cursor .e-resize {
+  cursor: e-resize;
+}
+
+.css .css-cursor .help {
+  cursor: help;
+}
+
+.css .css-cursor .n-resize {
+  cursor: n-resize;
+}
+
+.css .css-cursor .ne-resize {
+  cursor: ne-resize;
+}
+
+.css .css-cursor .nw-resize {
+  cursor: nw-resize;
+}
+
+.css .css-cursor .pointer {
+  cursor: pointer;
+}
+
+.css .css-cursor .progress {
+  cursor: progress;
+}
+
+.css .css-cursor .s-resize {
+  cursor: s-resize;
+}
+
+.css .css-cursor .se-resize {
+  cursor: se-resize;
+}
+
+.css .css-cursor .sw-resize {
+  cursor: sw-resize;
+}
+
+.css .css-cursor .text {
+  cursor: text;
+}
+
+.css .css-cursor .w-resize {
+  cursor: w-resize;
+}
+
+.css .css-cursor .wait {
+  cursor: wait;
+}
 /*# sourceMappingURL=index.css.map */
