@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 50px;
+  padding: 10px;
+  background: black;
+  color: white;
+  text-align: center;
+  margin: 15px 0;
+}
+
+.css {
+  padding: 0 15px;
+  background-color: white;
+}
+
+.css h2 {
+  font-size: 25px;
+  color: white;
+  background-color: black;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  padding: 5px 10px;
+  margin: 10px 0;
+}
+
+.css p {
+  font-size: 18px;
+  margin-top: 7px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.css h3 {
+  text-shadow: none;
+  color: transparent;
+}
+
+.css h4 {
+  background-color: black;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  float: right;
+  color: white;
+  text-shadow: none;
+  padding: 5px 10px;
+  position: absolute;
+  right: 10px;
+}
+
+.css .css-text-shadow {
+  text-shadow: 2px 2px;
+}
+
+.css .css-text-shadow .css-text-shadow-red {
+  text-shadow: 2px 2px red;
+}
+
+.css .css-text-shadow .css-text-shadow-glow-red {
+  text-shadow: 2px 2px 5px red;
+}
+
+.css .css-font .css-font-text-shadow p {
+  font-family: "Sofia", "sans-serif";
+  text-shadow: 3px 3px 3px #ababab;
+}
+
+.css .css-font .css-font-fire P {
+  font-family: "Sofia", sans-serif;
+}
+
+.css .css-font .css-font-multiple-effect p {
+  font-family: "Sofia", sans-serif;
+}
+/*# sourceMappingURL=index.css.map */
